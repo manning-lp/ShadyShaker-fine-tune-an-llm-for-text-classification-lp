@@ -1,1 +1,1 @@
-# fine-tuning-a-pre-trained-model-for-lead-classification-lp-author
+# Starter files for Project 2: Fine-Tune an LLM for Text Classification
